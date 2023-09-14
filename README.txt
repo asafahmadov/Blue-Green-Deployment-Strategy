@@ -1,0 +1,1 @@
+Besides ensuring zero-downtime during deployments, there was an emphasis on security due to the sensitive nature of the application. Measures were taken at both the infrastructure and application level to ensure data protection and mitigate potential breaches.
